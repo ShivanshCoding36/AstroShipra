@@ -1,0 +1,12 @@
+#PRIORITY
+Update UI
+Implement payment
+add email verification api in signup page
+create a 404 not found page, remove other signs of argumint
+
+
+# NON PRIORITY
+
+switch from razorpay to paytm
+
+fix zodiac sign in dashboard nav
